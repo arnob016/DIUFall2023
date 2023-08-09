@@ -1,18 +1,3 @@
-**Software Engineering**
-The application of a systematic, disciplined, quantifiable approach to the development, operation, and maintenance of software that is the application of engineering to software.
-
-
-
-**Hooker's general Principle of Software Engineering**
-1. The reason it all exists.
-2. Keep it simple, stupid (KISS).
-3. Maintain the vision.
-4. What you produce, Others will consume.
-5. Be open to the future.
-6. Plan ahead for reuse. 
-7. Think!
-
-
 **What is a software?**
 
 A software is an instruction to a computer to perform a task, or a data structure that enable a program to manipulate information, or it can be a document that describing another program.
@@ -87,3 +72,17 @@ Out of date software that needs or has a new replacement or version, but is stil
 * Customers
 * Developer
 * Development Manager
+
+**Software Engineering**
+The application of a systematic, disciplined, quantifiable approach to the development, operation, and maintenance of software that is the application of engineering to software.
+
+
+
+**Hooker's general Principle of Software Engineering**
+1. The reason it all exists.
+2. Keep it simple, stupid (KISS).
+3. Maintain the vision.
+4. What you produce, Others will consume.
+5. Be open to the future.
+6. Plan ahead for reuse. 
+7. Think!
