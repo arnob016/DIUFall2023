@@ -1,0 +1,137 @@
+.logo{
+    padding-left: 10px;
+}
+
+.logo:hover{
+    color: brown;
+}
+
+.navbar{
+    background-color:lightblue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+  
+.nav-items{
+    display: flex;
+    justify-content: space-between;
+    width: 250px;
+    padding-right: 20px;
+}
+
+img:hover {
+    opacity: .6;
+    animation: ani2 .7s steps(22) forwards;
+    transition: 3s;
+  }
+  
+
+.content{
+    margin: 0px;
+    position: relative;
+    display: flex;
+    background-image: url("wg.jpg");
+    background-position: center;
+    justify-content: center;
+    align-items: center;
+    background-repeat:no-repeat;
+    width:100%;
+    height:300px;
+  }
+
+.ls{
+    margin: 0px;
+    padding-bottom: 10px;
+    text-align: center;
+    color: blanchedalmond;
+}
+
+.ls:hover{
+    color: red;
+}
+
+.foot{
+    margin: 0px;
+    background-color: chocolate;
+}
+
+.block1{
+    margin: 0px;
+}
+.block2{
+    margin: 0px;
+    background-image: url("wg.jpg");
+    padding: 20px;
+}
+
+.card {
+    width: 300px;
+    background-color: chocolate;
+    box-shadow: 0 5px 10px 0 rgba(0,0,0,1);
+    border-radius: 5px;
+    margin: 10px;
+    padding: 8px;
+  }
+  
+.card-content {
+  padding: 2px 0px;
+}
+
+.img-style{
+    width:300px;
+    height: 300px;
+}
+
+.random-bg{
+    padding: 10px;
+    margin: 0px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-color: aqua;
+}
+
+.aa{
+    color:red;
+}
+.card-container{
+    margin: 0px;
+    background-color: darkcyan;
+    display: flex;
+}
+
+body{
+    margin: 0px;
+}
+
+button{
+    background-color: brown;
+    color: white;
+    height: 100px;
+    width: 150px;
+    vertical-align: middle;
+}
+
+button:hover{
+    background-color: white;
+    color: brown;
+}
+
+a{
+    text-decoration: none;
+    color: chocolate;
+    border-style: dotted;
+    padding: 5px;
+  }
+
+  a:hover{
+    color: black;
+}
+
+
+div {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
